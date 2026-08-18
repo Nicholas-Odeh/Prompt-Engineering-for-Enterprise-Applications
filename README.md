@@ -1,4 +1,4 @@
-# Prompt-Engineering-for-Enterprise-Applications
+# Prompt Engineering for Enterprise Applications
 > [!TIP]
 > This repository is designed to:
 
@@ -9,8 +9,11 @@
 * Improve consistency, reliability, maintainability, and traceability of AI-assisted workflows.
 
 
+<br/>
+<br/>
 
 ## Prompts
+
 | Prompt | Primary Function | Expected Output |
 |---|---|---|
 | **CodeForge** | Software engineering and development | System architecture, technical designs, source code, APIs, scripts, automated tests, test results, debugging findings, security considerations, implementation guidance, and requirements traceability |
@@ -26,47 +29,3 @@
 
 
 
-
-<div align="center">
-
-
-                         █████████████████████████████████
-
-
-              ████████     █████████████████████████████████████████████
-            ██████████     █████████████████████████████████████████████
-                  ████                                             █████
-                  ████                                             █████
-
-         ████     ████     ███████████████████████████████     █████     █
-        █████     ████     ███████████████████████████████     █████     ██
-        █████     ████     █████                         █████     █████
-         ████     ████     █████                          ████     █████
-         ████     ████     █████                          ████     █████
-         ████     ████     █████                          ████     █████     ████
-         ████     ████     █████                          ████     █████     ████
-         ████     ████     █████                          ████     █████     ████
-         ████     ████     █████                                   █████     ████
-         ████     ████     █████                                   █████     ████
-        █████     ████     █████                                   █████     ████
-                  ████     █████                          ████     █████     ████
-                  ████     █████                         █████     █████     ████
-                  ████     █████                          ███
-
-        █████     ████     █████
-        █████     ████     █████
-          █       ████     ███████████████████████████████     ███████████
-                  ████     ███████████████████████████████     ██████████
-                  ████                                             █████
-                  ████                                             █████
-
-                  █████████████████████████████      ████      █████████
-                  ██████████████████████████████    ██████     ████████
-                                                      ███
-
-
-                          ████████████████████████████████
-                               ████████████████████████
-
-
-</div>
