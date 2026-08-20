@@ -4,7 +4,7 @@
 
 
 * Standardize prompt engineering practices across enterprise teams, workflows, and AI-assisted processes.
-* Provide reusable, domain-specific prompt frameworks
+* Provide reusable, domain-specific prompt frameworks.
 * Support model-specific prompt optimizations.
 * Improve consistency, reliability, maintainability, and traceability of AI-assisted workflows.
 
