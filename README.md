@@ -1,18 +1,17 @@
 # Prompt Engineering for Enterprise Applications
-> [!TIP]
+> [!NOTE]
 > This repository is designed to:
+> * Standardize prompt engineering practices across enterprise teams, workflows, and AI-assisted processes.
+>* Provide reusable, domain-specific prompt frameworks.
+> * Support model-specific prompt optimizations.
+> * Improve consistency, reliability, maintainability, and traceability of AI-assisted workflows.
+____________________________________________________________________________________________
 
 
-* Standardize prompt engineering practices across enterprise teams, workflows, and AI-assisted processes.
-* Provide reusable, domain-specific prompt frameworks.
-* Support model-specific prompt optimizations.
-* Improve consistency, reliability, maintainability, and traceability of AI-assisted workflows.
+> [!TIP]
+> Review the "Created-XX-XXXX" timestamp on prompts; older prompts may run inefficiently on newer models. 
 
 
-<br/>
-<br/>
-
-## Prompts
 
 | Prompt | Primary Function | Expected Output |
 |---|---|---|
